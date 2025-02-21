@@ -1,4 +1,5 @@
-# Amazon Lex Chatbot Project
+# V.I.A.-Virtual-Interaction-Assistant 
+## Amazon Lex Chatbot Project
 
 This project involves building a conversational chatbot using **Amazon Lex**, a fully managed service for creating conversational interfaces using voice and text. The chatbot is designed to understand and process user inputs through text, providing natural and engaging interactions.
 
